@@ -1,0 +1,9 @@
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\bin\Debug\Negocio.dll
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\bin\Debug\Dominio.dll
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\bin\Debug\Dominio.pdb
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\obj\Debug\Negocio.dll
+C:\Users\GARGO\source\repos\AppDiscos\Negocio\obj\Debug\Negocio.pdb

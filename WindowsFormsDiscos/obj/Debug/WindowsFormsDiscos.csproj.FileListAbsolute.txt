@@ -1,0 +1,16 @@
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\WindowsFormsDiscos.exe.config
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\WindowsFormsDiscos.exe
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\WindowsFormsDiscos.pdb
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\Dominio.dll
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\Negocio.dll
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\Dominio.pdb
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\bin\Debug\Negocio.pdb
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.csproj.AssemblyReference.cache
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.frmDiscos.resources
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.Properties.Resources.resources
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.csproj.GenerateResource.cache
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.csproj.CoreCompileInputs.cache
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.csproj.CopyComplete
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.exe
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.pdb
+C:\Users\GARGO\source\repos\AppDiscos\WindowsFormsDiscos\obj\Debug\WindowsFormsDiscos.AltaDisco.resources

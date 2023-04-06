@@ -1,0 +1,6 @@
+C:\Users\GARGO\source\repos\AppDiscos\Dominio\bin\Debug\Dominio.dll
+C:\Users\GARGO\source\repos\AppDiscos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\GARGO\source\repos\AppDiscos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\GARGO\source\repos\AppDiscos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\GARGO\source\repos\AppDiscos\Dominio\obj\Debug\Dominio.dll
+C:\Users\GARGO\source\repos\AppDiscos\Dominio\obj\Debug\Dominio.pdb
